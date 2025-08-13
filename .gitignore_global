@@ -1,0 +1,12 @@
+.project
+.settings/
+.buildpath
+tags
+.idea/
+.phpcomplete_extended/
+.vagrant/
+*.swp
+clover.xml
+yarn-error.log
+.phpunit.result.cache
+.phpcs.xml

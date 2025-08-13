@@ -1,0 +1,9 @@
+romkatv/powerlevel10k
+zpm-zsh/colorize
+#theunraveler/zsh-fancy_ctrl_z
+#davidparsson/zsh-pyenv-lazy
+chrissicool/zsh-256color
+#MichaelAquilina/zsh-autoswitch-virtualenv
+ael-code/zsh-colored-man-pages
+#srijanshetty/zsh-pip-completion
+zsh-users/zsh-syntax-highlighting
