@@ -5,3 +5,5 @@
 	email = laurens@cloudsurfing.nl
 [alias]
 	co = checkout
+[push]
+	autoSetupRemote = true
